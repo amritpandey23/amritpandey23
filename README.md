@@ -3,6 +3,12 @@
 ### CS Student at NIT Warangal, India
 ### Full-stack (mostly back-endish & Python) Developer
 
+## Articles on Web :black_nib:
+
+- [What Go Programming Language does and does not have - 2019](https://amritpandey.medium.com/what-go-programming-language-does-and-does-not-have-ed6a9f83ab2d#:~:text=Unlike%20other%20object%20oriented%20programming,and%20destructors%20does%20not%20exist.)
+- [Unix, BSD, Minix, Linux - What, Who and WhenUnix, BSD, Minix, Linux - What, Who and When - 2019](https://blog.okape.co.in/posts/unix-bsd-minix-linux-what-who-when-2019-07-17/)
+- [Why do we need to test! - 2019](https://blog.okape.co.in/posts/why-do-we-need-tests-2019-06-13/)
+
 ## Side Projects :sparkles:
 
 - [GDSC NITW Website - 2021](https://github.com/gdsc-nitw/gdsc-nitw.github.io)
