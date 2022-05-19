@@ -5,7 +5,6 @@
 
 ## Side Projects :sparkles:
 
-- [Machine Learning Snippets - 2022](https://github.com/ok-ape/Machine_Learning_Snippets)
 - [GDSC NITW Website - 2021](https://github.com/gdsc-nitw/gdsc-nitw.github.io)
 - [Scholarship Portal - 2021](https://github.com/ok-ape/ScholarshipPortal)
 - [Coreyms Flask Blog - 2019](https://github.com/ok-ape/coreyms_flaskblog_tutorial)
@@ -20,6 +19,7 @@
 
 ## Coursework Repos :blue_book:
 
+- [Machine Learning - 2022](https://github.com/ok-ape/Machine_Learning_Snippets)
 - [Knowledge Engineering - 2022](https://github.com/ok-ape/KE_LAB)
 - [Network Programming - 2022](https://github.com/ok-ape/Network_Programming)
 - [Fundamental of Web Programming - 2021](https://github.com/ok-ape/FWP_LAB_CS5352)
