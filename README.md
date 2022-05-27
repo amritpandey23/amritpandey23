@@ -1,7 +1,10 @@
 # Amrit Pandey
 
-### CS Student at NIT Warangal, India
-### Full-stack (mostly back-endish & Python) Developer
+Hi, I am Amrit! I started coding as hobby in 2017 with JavaScript. The Developer community culture which formed around that time
+helped me introduce to the interesting world of software development. Since my first day of coding, I haven't spent a day without
+writing code. Eventually what started as passtime hobby turned into a full-time thing and now a pursuit to become software development
+engineer. The thing which excites me the most about this field is that I get to develop softwares which people use and depend on in
+their day-to-day life. I hope to bring lot of good changes in people's lives not just with my skills but also with my ideas.
 
 ## Articles on Web :black_nib:
 
@@ -36,7 +39,7 @@
 
 - [CodeCareer Community Bot - 2019](https://github.com/GitCodeCareer/discord-bot)
 
-## Connect with me 
+## Connect with me :wave:
 
 - [Linkedin](https://www.linkedin.com/in/okape/)
 
