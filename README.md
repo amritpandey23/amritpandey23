@@ -41,7 +41,7 @@ their day-to-day life. I hope to bring lot of good changes in people's lives not
 
 ## Connect with me :wave:
 
-- [Linkedin](https://www.linkedin.com/in/okape/)
+- [Linkedin](https://www.linkedin.com/in/amritpandey23/)
 
 <!--
 **ok-ape/ok-ape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
