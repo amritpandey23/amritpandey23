@@ -31,6 +31,7 @@ Here's all that I've worked on since I discovered that you can make computer say
 | --------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ------------ | ------ | ---------- | ------ |
 | [Machine Learning Snippets](https://github.com/amritpandey23/Machine_Learning_Snippets) | Repository for storing machine learning findings and algorithms | 2022-Present | Python | Repository | 👨‍💻     |
 | [Prompt Engineering]()                                                                  | Jupyter notes showcasing various prompting techniques           | 2023-Present | Python | Repository | 👨‍💻     |
+| [Ask your Data](https://github.com/amritpandey23/ask_your_data)                         | A tool to ask questions to your data and generate visual insights| 2024 | Python, Gemini | Repository | ⭐     |
 
 ### Software Engineering 💰
 
